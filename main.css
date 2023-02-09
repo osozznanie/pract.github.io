@@ -1,0 +1,106 @@
+@import url(reset.css);
+
+.container{
+    max-width: 1440px;
+    height: 100vh;
+    margin: 0 auto;
+    background-image: url(logo.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+}
+
+.wrapper-ul{
+    padding-left: 75px;
+    margin-bottom: 50px;
+}
+
+li{
+    padding: 20px 0 20px 0;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-family:'Reem Kufi Fun', sans-serif;
+    font-size: 30px;
+}
+
+a:hover{
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.ichigo-container{
+    max-width: 1440px;
+    height: 100vh;
+    margin: 0 auto;
+    background-image: url(ichigo.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+.ichigo-h1{
+    color: black;
+}
+
+.ichigo-p{
+    color: white;
+    font-family:'Reem Kufi Fun', sans-serif;
+    font-size: 14px;
+}
+
+.wrapper-ichigo{
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 500px;
+}
+
+.ruckia-container{
+    max-width: 1440px;
+    height: 100vh;
+    margin: 0 auto;
+    background-image: url(ruckia.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.ruckia-h1{
+    color: rgb(114, 89, 89);
+}
+
+.ruckia-p{
+    color: white;
+    font-family:'Reem Kufi Fun', sans-serif;
+    font-size: 14px;
+}
+
+.wrapper-ruckia{
+    margin-top: 100px;
+    margin-left: 20px;
+    width: 500px;
+}
+
+.kisuke-container{
+    max-width: 1440px;
+    height: 100vh;
+    margin: 0 auto;
+    background-image: url(kisaki\ urakhara.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+.toshiro-container{
+    max-width: 1440px;
+    height: 100vh;
+    margin: 0 auto;
+    background-image: url(190835-tshir-hitsugaya-1920x1080.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+}
